@@ -7,7 +7,7 @@ Todos os tutoriais estão na [wiki](https://github.com/Kitsune912/RimWolrd-Trad.
 
 Para uma melhor comunicação, acesse o servidor do Discord: [Tradução BR - Rimworld](https://discord.gg/JYhMBbR7v3)
 
-⚠️ Aviso: Esse servidor também é utilizado para a tradução oficial do jogo, atente-se aos canais e seus contextos.
+⚠️ **Aviso**: Esse servidor também é utilizado para a tradução oficial do jogo, atente-se aos canais e seus contextos.
 
 ------------------------
 
