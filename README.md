@@ -13,4 +13,4 @@ Para uma melhor comunicação, acesse o servidor do Discord: [Tradução BR - Ri
 
 ### 🧩 Tutorias por:
 
-  - [João Rocha (Kitsune)](https://github.com/Kitsune912)
+  - [João Covre (Kitsune)](https://github.com/Kitsune912)
